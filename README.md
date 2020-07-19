@@ -6,4 +6,4 @@ This is a very cursed mod, brings an E with a special ability! (aka. crash your 
 
 ## License
 
-This project is under a GNU GNLv3 license.
+This project is under a GNU GPLv3 license.
